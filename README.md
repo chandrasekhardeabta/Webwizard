@@ -1,2 +1,2 @@
-# web-wizard-
+# Webwizard
 website deigns by webwizards
